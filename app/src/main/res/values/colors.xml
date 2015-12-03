@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#393E46</color>
+    <color name="colorPrimaryDark">#222831</color>
+    <color name="colorAccent">#222831</color>
+    <color name="colorMyDarkness">#222831</color>
+    <color name="colorMyDark">#393E46</color>
+    <color name="colorMyAzure">#166678</color>
+    <color name="colorMyWhite">#EEEEEE</color>
+    <color name="colorRed">#F44336</color>
+    <color name="colorBgBlue">#7DB9B3</color>
+    <color name="colorBgWhite">#E1F6F4</color>
+    <color name="colorBgOrange">#F78536</color>
+</resources>

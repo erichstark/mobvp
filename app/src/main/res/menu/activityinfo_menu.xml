@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".AccountInfoActivity">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu_login"
+            android:orderInCategory="1"
+            android:title="Log in" />
+
+        <item
+            android:id="@+id/menu_info"
+            android:orderInCategory="2"
+            android:checked="true"
+            android:title="Account info" />
+
+        <item
+            android:id="@+id/menu_overpass"
+            android:orderInCategory="3"
+            android:title="Overpass" />
+
+        <item
+            android:id="@+id/menu_overpass_settings"
+            android:orderInCategory="4"
+            android:title="Overpass settings" />
+
+        <item
+            android:id="@+id/menu_volley"
+            android:orderInCategory="4"
+            android:title="Volley" />
+    </group>
+</menu>
